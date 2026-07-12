@@ -49,7 +49,7 @@ INSERT INTO staging.preferred_roles(
     role_name
 ) VALUES 
     (1, 'Data Engineer'),
-    (2, 'Sr. Data Engineer'),
+    (2, 'Senior Data Engineer'),
     (3, 'Software Engineer');
 
 -- SELECT * FROM staging.preferred_roles;
